@@ -1,4 +1,4 @@
-package githubDragnDrop;
+package guru.qa;
 
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.*;

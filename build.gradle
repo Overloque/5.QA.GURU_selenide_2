@@ -6,7 +6,7 @@ repositories {
     mavenCentral()
 }
 
-group 'githubDragnDrop'
+group 'guru.qa'
 version '1.0'
 
 dependencies {
